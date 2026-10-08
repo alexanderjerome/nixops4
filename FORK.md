@@ -1,4 +1,4 @@
-# jeirslab/nixops4: a contributing fork
+# alexanderjerome/nixops4: a contributing fork
 
 This is a fork of [nixops4/nixops4](https://github.com/nixops4/nixops4) used for
 two things at once: contributing changes upstream, and running NixOps4 with
@@ -31,4 +31,4 @@ Rules:
 
 ## Using it
 
-    inputs.nixops4.url = "github:jeirslab/nixops4/integration";
+    inputs.nixops4.url = "github:alexanderjerome/nixops4/integration";
